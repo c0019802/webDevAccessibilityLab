@@ -49,7 +49,7 @@ nav ul li a {
 }
 
 section img {
-  width: 100%;
+  width: auto;
   height: auto;
 }
 
@@ -71,4 +71,9 @@ footer {
   font-size: 0.8em;
   text-align: center;
   font-style: italic;
+}
+
+header h1 a {
+  color: #b49b9b;
+  text-decoration: none;
 }
